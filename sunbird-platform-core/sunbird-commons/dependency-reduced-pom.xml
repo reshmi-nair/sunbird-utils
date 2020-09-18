@@ -27,11 +27,6 @@
                   </excludes>
                 </filter>
               </filters>
-              <artifactSet>
-                <excludes>
-                  <exclude>com.google.guava:guava</exclude>
-                </excludes>
-              </artifactSet>
               <transformers>
                 <transformer>
                   <resource>reference.conf</resource>
